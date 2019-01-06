@@ -1,0 +1,175 @@
+# depslib dependency file v1.0
+1465325514 source:c:\users\tom waks\desktop\tsp_b&b__projekt_proe\droga.cpp
+	<iostream>
+	<vector>
+	"Wezel.h"
+	"Droga.h"
+
+1465325514 source:c:\users\tom waks\desktop\tsp_b&b__projekt_proe\graf.cpp
+	<iostream>
+	"Graf.h"
+
+1465325535 source:c:\users\tom waks\desktop\tsp_b&b__projekt_proe\krawedz.cpp
+	<iostream>
+	<string>
+	<math.h>
+	"Krawedz.h"
+
+1465325514 source:c:\users\tom waks\desktop\tsp_b&b__projekt_proe\macierz.cpp
+	<iostream>
+	<limits>
+	"Macierz.h"
+
+1465329284 source:c:\users\tom waks\desktop\tsp_b&b__projekt_proe\main.cpp
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	"Wyjatek.h"
+	"Wezel.h"
+	"Krawedz.h"
+	"Macierz.h"
+	"Relacja.h"
+	"Droga.h"
+	"Przejscie.h"
+	"Ograniczenie.h"
+
+1465325514 source:c:\users\tom waks\desktop\tsp_b&b__projekt_proe\ograniczenie.cpp
+	<iostream>
+	"Ograniczenie.h"
+
+1465324694 source:c:\users\tom waks\desktop\tsp_b&b__projekt_proe\przejscie.cpp
+	<iostream>
+	"Przejscie.h"
+
+1465324701 c:\users\tom waks\desktop\tsp_b&b__projekt_proe\przejscie.h
+	<iostream>
+
+1465325514 source:c:\users\tom waks\desktop\tsp_b&b__projekt_proe\relacja.cpp
+	<iostream>
+	<limits>
+	"Relacja.h"
+
+1465329228 source:c:\users\tom waks\desktop\tsp_b&b__projekt_proe\wezel.cpp
+	<iostream>
+	<fstream>
+	"Wezel.h"
+	"Wyjatek.h"
+
+1465324694 c:\users\tom waks\desktop\tsp_b&b__projekt_proe\wezel.h
+	<iostream>
+	"Graf.h"
+
+1465324694 c:\users\tom waks\desktop\tsp_b&b__projekt_proe\graf.h
+	<iostream>
+
+1465324694 c:\users\tom waks\desktop\tsp_b&b__projekt_proe\droga.h
+	<iostream>
+	<vector>
+	"Wezel.h"
+
+1465324694 c:\users\tom waks\desktop\tsp_b&b__projekt_proe\krawedz.h
+	<iostream>
+	"Graf.h"
+	"Wezel.h"
+
+1465325071 c:\users\tom waks\desktop\tsp_b&b__projekt_proe\macierz.h
+	<iostream>
+
+1465325548 c:\users\tom waks\desktop\tsp_b&b__projekt_proe\ograniczenie.h
+	<iostream>
+
+1465325072 c:\users\tom waks\desktop\tsp_b&b__projekt_proe\relacja.h
+	<iostream>
+	"Macierz.h"
+
+1465326834 c:\users\tom waks\desktop\tsp_b&b__projekt_proe\wyjatek.h
+	<iostream>
+	<exception>
+
+1465325514 source:c:\users\tom waks\desktop\nn\droga.cpp
+	<iostream>
+	<vector>
+	"Wezel.h"
+	"Droga.h"
+
+1465324694 c:\users\tom waks\desktop\nn\wezel.h
+	<iostream>
+	"Graf.h"
+
+1465324694 c:\users\tom waks\desktop\nn\graf.h
+	<iostream>
+
+1465324694 c:\users\tom waks\desktop\nn\droga.h
+	<iostream>
+	<vector>
+	"Wezel.h"
+
+1465325514 source:c:\users\tom waks\desktop\nn\graf.cpp
+	<iostream>
+	"Graf.h"
+
+1465325535 source:c:\users\tom waks\desktop\nn\krawedz.cpp
+	<iostream>
+	<string>
+	<math.h>
+	"Krawedz.h"
+
+1465324694 c:\users\tom waks\desktop\nn\krawedz.h
+	<iostream>
+	"Graf.h"
+	"Wezel.h"
+
+1465325514 source:c:\users\tom waks\desktop\nn\macierz.cpp
+	<iostream>
+	<limits>
+	"Macierz.h"
+
+1465325071 c:\users\tom waks\desktop\nn\macierz.h
+	<iostream>
+
+1546708163 source:c:\users\tom waks\desktop\nn\main.cpp
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	"Wyjatek.h"
+	"Wezel.h"
+	"Krawedz.h"
+	"Macierz.h"
+	"Relacja.h"
+	"Droga.h"
+	"Przejscie.h"
+	"Ograniczenie.h"
+
+1465326834 c:\users\tom waks\desktop\nn\wyjatek.h
+	<iostream>
+	<exception>
+
+1465325072 c:\users\tom waks\desktop\nn\relacja.h
+	<iostream>
+	"Macierz.h"
+
+1465324701 c:\users\tom waks\desktop\nn\przejscie.h
+	<iostream>
+
+1465325548 c:\users\tom waks\desktop\nn\ograniczenie.h
+	<iostream>
+
+1465325514 source:c:\users\tom waks\desktop\nn\ograniczenie.cpp
+	<iostream>
+	"Ograniczenie.h"
+
+1465324694 source:c:\users\tom waks\desktop\nn\przejscie.cpp
+	<iostream>
+	"Przejscie.h"
+
+1465325514 source:c:\users\tom waks\desktop\nn\relacja.cpp
+	<iostream>
+	<limits>
+	"Relacja.h"
+
+1465329228 source:c:\users\tom waks\desktop\nn\wezel.cpp
+	<iostream>
+	<fstream>
+	"Wezel.h"
+	"Wyjatek.h"
+

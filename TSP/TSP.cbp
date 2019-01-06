@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="TSP_B&amp;B__PROJEKT_PROE" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/TSP_B&amp;B__PROJEKT_PROE" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+				</Compiler>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+			<Add option="-fexceptions" />
+		</Compiler>
+		<Unit filename="Droga.cpp" />
+		<Unit filename="Droga.h" />
+		<Unit filename="Graf.cpp" />
+		<Unit filename="Graf.h" />
+		<Unit filename="Krawedz.cpp" />
+		<Unit filename="Krawedz.h" />
+		<Unit filename="Macierz.cpp" />
+		<Unit filename="Macierz.h" />
+		<Unit filename="Ograniczenie.cpp" />
+		<Unit filename="Ograniczenie.h" />
+		<Unit filename="Przejscie.cpp" />
+		<Unit filename="Przejscie.h" />
+		<Unit filename="Relacja.cpp" />
+		<Unit filename="Relacja.h" />
+		<Unit filename="Wezel.cpp" />
+		<Unit filename="Wezel.h" />
+		<Unit filename="Wyjatek.h" />
+		<Unit filename="main.cpp" />
+		<Extensions>
+			<code_completion />
+			<envvars />
+			<debugger />
+			<lib_finder disable_auto="1" />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>
